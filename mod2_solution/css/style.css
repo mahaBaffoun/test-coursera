@@ -1,0 +1,41 @@
+.row{
+	margin-bottom: 15px;
+	float: center;
+}
+.row > div {
+	border: 2px solid black;
+	background-color: #eafdff;
+}
+
+
+
+.card { 
+ position: relative; 
+ width: 300px; 
+ border:1px solid black; 
+} 
+  
+.element { 
+ position: right; 
+ top:10; 
+ right:20 ; 
+ width: 60px;  
+ border: 1px solid black; 
+ margin-left:170px;
+}
+
+#c{
+	background-color: yellow;
+	font-weight: bold;
+	text-align: center;
+	}
+#b{
+	background-color: red;
+	font-weight: bold;
+	color: white;
+	text-align: center;
+}#s{
+	background-color: beige;
+	font-weight: bold;
+	text-align: center;
+}
